@@ -1,7 +1,7 @@
 # Knn-Diabetes
 
 No âmbito da Unidade Curricular de Inteligência Artificial, foi proposto a realização de um trabalho cujo tema é a implementação do Raciocínio Baseado em Casos onde o problema é escolhido por cada pessoa.
-O tema do meu trabalho foi determinar se uma pessoa tem diabetes ou não, um tema com um nível de importância elevado pois, trata-se da saúde de cada paciente e a sua má implementação pode ser bastante perigosa, certos parâmetros foi de impossível implementação pois, era necessário a presença de um especialista para a sua implementação ser mais exata.
+O tema do meu trabalho foi determinar se uma pessoa tem diabetes ou não, um tema com um nível de importância elevado pois, trata-se da saúde de cada paciente e a sua má implementação pode ser bastante perigosa, certos parâmetros foi de impossível implementação pois, era necessário a presença de um especialista para a sua implementação ser mais exata!!
 O objetivo deste trabalho é desenvolver uma aplicação para cada paciente responder a algumas perguntas (no total são 8 perguntas) e aplicação dá uma resposta conforme as perguntas fornecidas.
 
 As características pedidas ao paciente são:
